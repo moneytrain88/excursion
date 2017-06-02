@@ -13,3 +13,8 @@ body {
     display: block;
     margin: 8px;
 }
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
